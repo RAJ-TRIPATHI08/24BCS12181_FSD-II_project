@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN E-Commerce Store
 
 Full-stack shopping app: **MongoDB + Express + React (Vite) + Node.js**
@@ -63,3 +64,6 @@ client/  src/ pages/  context/ (Auth, Cart)  api.js  App.jsx
 **Database design:** Order embeds item snapshots (name, price, qty), so old orders stay correct even if a product's price changes later. `user` and `product` are references (`ref`) to other collections.
 
 **Possible future improvements:** payment gateway (Razorpay/Stripe), image upload (Multer/Cloudinary), pagination, reviews and ratings, refresh tokens, input validation with Joi/Zod, MongoDB transactions for orders.
+=======
+# 24BCS12181_FSD-II_project
+>>>>>>> 05a7598b21ee3010b7c14155859720813e2e6ff1
